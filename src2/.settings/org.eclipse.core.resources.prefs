@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/sun/dao/DisDAO.java=UTF-8
+encoding//src/main/java/com/sun/dao/LikeDAO.java=UTF-8
+encoding//src/main/java/com/sun/dao/SimDAO.java=UTF-8
+encoding//src/main/java/com/sun/dbm/ConnectionParam.java=UTF-8
+encoding//src/main/java/com/sun/dbm/ConnectionPool.java=UTF-8
+encoding//src/main/java/com/sun/dbm/Dbmanage.java=UTF-8
+encoding//src/main/java/com/sun/rec_engin/WordSimilarity.java=UTF-8
+encoding//src/main/java/com/sun/rec_engin/similarity.java=UTF-8
+encoding//src/main/java/com/sun/rec_engin/split.java=UTF-8
